@@ -40,7 +40,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=IwatsukaYura&theme=onedark)](https://github.com/IwatsukaYura/github-profile-trophy)
 
   
-[![status]]http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IwatsukaYura&theme=default
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IwatsukaYura&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IwatsukaYura&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IwatsukaYura&theme=nord_bright)
 
 
   
