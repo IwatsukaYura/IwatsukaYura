@@ -52,5 +52,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=c,django,docker,figma)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,go,mysql)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=php,py,swift,ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,postman,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,swift,ts)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=postgres,postman,react,tailwind)](https://skillicons.dev)<br>
