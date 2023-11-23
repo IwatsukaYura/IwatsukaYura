@@ -26,7 +26,7 @@
     出身：愛知県 名古屋
     職業：大学生
     分野：情報工学
-    主要言語：Python, Django, Golang
+    主要言語：Python, Golang, Typescript
     趣味：
       [ ボディメイク(フィジーク大会に出場しています)
         料理(作るほうも食べるほうも)
@@ -52,4 +52,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=c,django,docker,figma)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,go,mysql)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=php,py,swift,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,swift,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,postman,react,tailwind)](https://skillicons.dev)
