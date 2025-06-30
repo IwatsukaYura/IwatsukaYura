@@ -79,9 +79,9 @@ const yura = {
 
 **Tools & Platforms**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=postman,bootstrap,tailwind,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,swift)](https://skillicons.dev)
 <br>
 
 </div>
