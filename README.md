@@ -26,9 +26,6 @@ const yura = {
   currentFocus: "backend development & system architecture",
   lifeBalance: {
     fitness: "Competing in bodybilding competitions 💪",
-    culinary: "Cooking & baking enthusiast 👨‍🍳",
-    music: "Guitar player 🎸",
-    philosophy: "Continuous learning & self-improvement"
   }
 };
 ```
@@ -37,8 +34,8 @@ const yura = {
 
 **Languages & Frameworks:**
 - **Backend:** Python (Django), Go
-- **Frontend:** TypeScript/JavaScript, React, HTML5, CSS3
-- **Mobile:** Swift (iOS Development), Java(Android Development)
+- **Frontend:** TypeScript/JavaScript, React, Next.js
+- **Mobile:** Java(Android Development)
 
 **Tools & Technologies:**
 - **Database:** MySQL, PostgreSQL
