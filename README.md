@@ -14,7 +14,7 @@
 
 ## 🚀 About Me | 自己紹介
 
-I'm a passionate **Computer Science student** from Nagoya, Japan, dedicated to building innovative solutions and exploring the intersection of technology and creativity.
+I'm a passionate **Full Stack Web Engineer** live in Tokyo, Japan, dedicated to building innovative solutions and exploring the intersection of technology and creativity.
 
 ```javascript
 const yura = {
@@ -22,7 +22,7 @@ const yura = {
   location: "Tokyo Japan（日本　東京）",
   role: "Application Engineer",
   field: "Computer Science & Information Engineering",
-  mainLanguages: ["Python", "Go"],
+  mainLanguages: ["Python", "Go", "Typescript"],
   currentFocus: "backend development & system architecture",
   lifeBalance: {
     fitness: "Competing in bodybilding competitions 💪",
@@ -33,14 +33,10 @@ const yura = {
 ## 💻 Tech Stack & Skills
 
 **Languages & Frameworks:**
-- **Backend:** Python (Django), Go
+- **Backend:** Python (Django), Go(Echo, Gin), TypeScript/JavaScript(Nest.js)
 - **Frontend:** TypeScript/JavaScript, React, Next.js
-- **Mobile:** Java(Android Development)
 
-**Tools & Technologies:**
-- **Database:** MySQL, PostgreSQL
-- **DevOps:** Docker, k8s ,Git/GitHub
-- **API:** Postman for testing
+
 
 ## 📊 GitHub Analytics
 
@@ -62,24 +58,25 @@ const yura = {
 
 <div align="center">
 
-**Web Development**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
-<br>
-
+  
 **Backend & Database**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=py,go,django)](https://skillicons.dev)
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> 
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"> 
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
 <br>
-
-**Tools & Platforms**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=postman,swift)](https://skillicons.dev)
-<br>
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"> 
 
 </div>
 
@@ -91,10 +88,8 @@ const yura = {
 - **💡 Innovation:** Passionate about creating technology that makes a positive impact
 
 ## 📫 Let's Connect!
-
-- **Twitter:** [@prog_yura](https://twitter.com/EnglishUra48278)
-- **Qiita:** [Technical Articles](https://qiita.com/iwatsukayura)
 - **GitHub:** Feel free to explore my repositories and contribute!
+- **Email** iwatsukayura@gmail.com
 
 ---
 
