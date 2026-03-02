@@ -33,7 +33,7 @@ const yura = {
 ## 💻 Tech Stack & Skills
 
 **Languages & Frameworks:**
-- **Backend:** Python (Django), Go(Echo, Gin), TypeScript/JavaScript(Nest.js)
+- **Backend:** Python (Django), Go(Echo, Gin), TypeScript/JavaScript(Nest.js), Java(Spring Boot)
 - **Frontend:** TypeScript/JavaScript, React, Next.js
 
 
