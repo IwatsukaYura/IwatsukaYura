@@ -40,15 +40,6 @@ const yura = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IwatsukaYura&count_private=true&hide=stars,contribs&show_icons=true&theme=nord)](https://github.com/iwatsukayura/github-readme-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=IwatsukaYura&theme=nord&no-frame=true&row=1&column=6)](https://github.com/IwatsukaYura/github-profile-trophy)
-
-</div>
-
-<div align="center">
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IwatsukaYura&theme=nord_bright)
 
