@@ -38,17 +38,12 @@ const yura: Engineer = {
 
 ---
 
-## ⚡ What I Actually Do
+## 🔨 Currently Working With
 
-I build **backend systems that survive Monday morning traffic** — and the engineers who debug them at 3 AM.
-
-- 🛠 **Go × Clean Architecture** — designed and shipped an internal library-management app solo, from schema to deploy. No framework magic, just well-placed interfaces.
-- 📊 **Data Platform Engineering** — built ETL pipelines with automated validation feeding executive Tableau dashboards. Turns out execs *do* notice when the numbers stop being wrong.
-- 🐍 **Python for the messy stuff** — automation, data wrangling, and "can you just script this real quick" requests that turn into production systems.
-- ☁️ **Cloud Native & SRE mindset** — containers, observability, SLOs, and the unreasonable belief that pages should be rare.
-- 🤖 **AI / LLM Development** — building applications on top of the Anthropic API. Prompt engineering is just engineering with extra ambiguity.
-
-> *"It works on my machine"* is a hypothesis, not a deployment strategy.
+- Building backend services in **Go** with clean architecture principles
+- Designing and operating **ETL pipelines** and data infrastructure
+- Moving toward **Cloud Native & SRE** — leveling up on Kubernetes & Terraform
+- Exploring **LLM application development** with the Anthropic API
 
 ---
 
@@ -87,7 +82,6 @@ I build **backend systems that survive Monday morning traffic** — and the engi
 **Data & Storage**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---
@@ -99,43 +93,22 @@ I build **backend systems that survive Monday morning traffic** — and the engi
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IwatsukaYura&show_icons=true&theme=nord&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IwatsukaYura&layout=compact&theme=nord&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IwatsukaYura&theme=nord&hide_border=true" />
 </p>
-
----
-
-## 🧠 Engineering Philosophy
-
-```go
-// Things I optimize for, in order:
-const principles = [
-  "Correctness  // wrong-but-fast is just wrong",
-  "Readability  // code is read 10x more than written",
-  "Observability// you can't fix what you can't see",
-  "Simplicity   // every abstraction has a tax",
-  "Performance  // last, but never forgotten",
-];
-```
-
-- **🎯 Solve the real problem.** The reported bug is rarely the actual bug.
-- **🌱 Stay teachable.** Last year's best practice is this year's tech debt.
-- **🤝 Document like the on-call engineer is you at 3 AM.** Because eventually it is.
-- **💡 Boring tech > shiny tech.** Boring scales. Shiny pages.
 
 ---
 
 ## 🌏 Currently
 
-- 💼 Backend / data infra at a major Japanese bank → moving to a new role focused on **Cloud Native & SRE**
-- 🌐 Long-distance, long-term commitment to improving my English (currently dating it — and an Australian)
-- 🏋️ Next bodybuilding meet: bracing for it the same way I brace for a prod deploy
+- 💼 Backend / data infrastructure → transitioning to a role focused on **Cloud Native & SRE**
+- 🌐 Studying English daily — open to working in international or English-speaking environments
+- 🏋️ Bodybuilding (off-duty)
 
 ---
 
 ## 📫 Let's Connect
 
-If you're hiring for **Go backends, data platforms, or cloud native / SRE roles** — or just want to nerd out about clean architecture, observability, or deadlift form — let's talk.
+If you're hiring for **Go backends, data platforms, or Cloud Native / SRE roles**, or just want to nerd out about clean architecture and observability — let's talk.
 
 <p>
   <a href="mailto:iwatsukayura@gmail.com">
