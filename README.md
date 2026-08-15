@@ -28,22 +28,10 @@
 const yura: Engineer = {
   name: "Iwatsuka Yura（岩塚 由楽）",
   location: "Tokyo, Japan 🗼",
-  role: "Backend / Application Engineer",
-  currentlyShipping: ["Go services", "ETL pipelines", "exec KPI dashboards"],
-  obsessedWith: ["clean architecture", "observability", "boring infra that just works"],
-  alsoLearning: ["Kubernetes", "distributed systems", "English"],
+  role: "Fullstack Engineer / SRE",
   offDuty: "bodybuilding 🏋️",
 };
 ```
-
----
-
-## 🔨 Currently Working With
-
-- Building backend services in **Go** with clean architecture principles
-- Designing and operating **ETL pipelines** and data infrastructure
-- Moving toward **Cloud Native & SRE** — leveling up on Kubernetes & Terraform
-- Exploring **LLM application development** with the Anthropic API
 
 ---
 
