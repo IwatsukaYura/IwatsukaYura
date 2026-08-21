@@ -1,119 +1,65 @@
-<h1 align="center">
-  Hi there, I'm Yura 👋
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=IWATSUKA%20YURA&fontColor=FFF&fontSize=48" />
+</div>
+
+<h3 align="center">Backend &nbsp;·&nbsp; Cloud Native </h3>
+<p align="center"><sub>Building reliable systems that scale. &nbsp;/&nbsp; Tokyo, Japan 🗼</sub></p>
 
 <p align="center">
-  <em>Backend engineer focused on Go, cloud native systems, and data infrastructure.</em>
-  <br/>
-  <em>Tokyo-based. Building reliable systems that scale.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/IwatsukaYura/IwatsukaYura/">
-    <img src="https://komarev.com/ghpvc/?username=IwatsukaYura&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <a href="https://github.com/IwatsukaYura">
+    <img src="https://komarev.com/ghpvc/?username=IwatsukaYura&style=flat-square&color=8A2BE2&label=VIEWS" alt="Profile Views" />
   </a>
   <a href="https://x.com/yura_builder">
-    <img height="20" src="https://img.shields.io/twitter/follow/prog_yura?label=Twitter&logo=twitter&style=flat-square" />
+    <img src="https://img.shields.io/badge/X-@yura__builder-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://github.com/IwatsukaYura">
-    <img height="20" src="https://img.shields.io/github/followers/IwatsukaYura?label=Follow&logo=github&style=flat-square" />
+  <a href="https://zenn.dev/iwatsukayura">
+    <img src="https://img.shields.io/badge/ZENN-@iwatsukayura-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
+  <a href="https://github.com/IwatsukaYura?tab=followers">
+    <img src="https://img.shields.io/github/followers/IwatsukaYura?style=flat-square&logo=github&logoColor=white&color=181717&label=FOLLOWERS" alt="Followers" />
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" />
 
-## 🧭 `whoami`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,ts,fastapi&perline=4" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,terraform,aws,githubactions&perline=7" />
+</div>
 
-```ts
-const yura: Engineer = {
-  name: "Iwatsuka Yura（岩塚 由楽）",
-  location: "Tokyo, Japan 🗼",
-  role: "Fullstack Engineer / SRE",
-  offDuty: "bodybuilding 🏋️",
-};
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" />
 
----
+<div align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IwatsukaYura&theme=tokyonight" />
+</div>
 
-## 🧰 Tech Stack
+<div align="center">
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=IwatsukaYura&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IwatsukaYura&theme=tokyonight&utcOffset=9" />
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" />
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-**Backend Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-**Cloud Native & SRE**
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-**Data & Storage**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub by the Numbers
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IwatsukaYura&theme=nord_bright" />
+  Open to <b>Go backend</b> / <b>Cloud Native &amp; SRE</b> roles — and to nerding out about observability.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IwatsukaYura&theme=nord&hide_border=true" />
-</p>
-
----
-
-## 🌏 Currently
-
-- 💼 Backend / data infrastructure → transitioning to a role focused on **Cloud Native & SRE**
-- 🌐 Studying English daily — open to working in international or English-speaking environments
-- 🏋️ Bodybuilding (off-duty)
-
----
-
-## 📫 Let's Connect
-
-If you're hiring for **Go backends, data platforms, or Cloud Native / SRE roles**, or just want to nerd out about clean architecture and observability — let's talk.
-
-<p>
   <a href="mailto:iwatsukayura@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iwatsukayura%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/IwatsukaYura">
-    <img src="https://img.shields.io/badge/GitHub-IwatsukaYura-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/yura_builder">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://zenn.dev/iwatsukayura">
+    <img src="https://img.shields.io/badge/ZENN-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
+  </a>
+  <a href="https://github.com/IwatsukaYura">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <em>"In theory, theory and practice are the same. In practice, they're not."</em>
-  <br/>
-  <sub>— Every backend engineer, eventually</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
 </p>
